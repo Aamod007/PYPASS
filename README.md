@@ -31,6 +31,10 @@ Ensure you have the following Python packages installed:
 
 ---
 
+![Screenshot](screenshot.png)
+
+---
+
 ## 🚀 **Setup**  
 
 Follow these steps to run the project on your system:  
