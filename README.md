@@ -85,7 +85,6 @@ python program.py
 
 This project was created as a learning tool for password management. **It is not intended for production use** and may contain security vulnerabilities. The encryption functions were implemented quickly and may not follow best practices.  
 
-If you want a more secure and stable password manager, consider using [**pazz**](https://github.com/waterrmalann/pazz), a more refined version of this project that uses **SQLite** and improved security practices.
 
 ---
 
