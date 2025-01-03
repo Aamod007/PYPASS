@@ -81,7 +81,7 @@ python program.py
 
 | **Master Password Prompt** | **Main Menu** |  
 |---------------------------|--------------|  
-| ![Screenshot](screenshot.png) | ![Screenshot](screenshot.png) |  
+| ![Screenshot](Screenshot_1.png) | ![Screenshot](screenshot.png) |  
 
 ---
 
