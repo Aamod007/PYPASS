@@ -31,7 +31,7 @@ Ensure you have the following Python packages installed:
 
 ---
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 ---
 
