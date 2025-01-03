@@ -85,13 +85,6 @@ python program.py
 
 This project was created as a learning tool for password management. **It is not intended for production use** and may contain security vulnerabilities. The encryption functions were implemented quickly and may not follow best practices.  
 
-
----
-
-## 📜 **License**  
-
-This project is licensed under **The Unlicense**. See the [LICENSE](LICENSE) file for more details.
-
 ---
 
 ### 💡 **Note:**  
